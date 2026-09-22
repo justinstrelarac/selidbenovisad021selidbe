@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://VASA-ADRESA-SAJTA/sitemap.xml
+Sitemap: https://selidbe021.rs/sitemap.xml
